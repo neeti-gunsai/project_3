@@ -73,10 +73,13 @@ This game is a fun, lightweight project to test your **logical thinking**, apply
 
 **Enjoy blasting aliens!** 🚀👾  
 **Keep learning, keep building!** 💪
-## 👾**Team : Crazy_Coder💥**
+## 👾**Team : Crazy_Coders💥**
  **Team members:**
  1.Gunsai Neeti
+ 
  2.Bhuva Diya
+ 
  3.Parmar Madhav
+ 
  4.Ditani Tirth
  
